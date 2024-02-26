@@ -1,0 +1,4 @@
+name = "krish"
+length = 0.7
+love = True
+print(f"your name is {name}, your length is {length}, your love is {love}")
