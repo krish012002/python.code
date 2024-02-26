@@ -1,4 +1,4 @@
-name = "krish"
-length = 0.7
+name = "kishore"
+length = 0.6
 love = True
 print(f"your name is {name}, your length is {length}, your love is {love}")
